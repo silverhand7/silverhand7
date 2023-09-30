@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m a Full-stack developer who is more prominent in Backend Development.
-- 💻 My favourite tech stacks are Laravel, Vue.js and PostgreSQL.
+- 💻 My favourite tech stacks are Laravel, Vue.js and SQL.
 - 📖 I’m currently learning Go, Microservices, and Distributed Systems.
 - ⚡ I like to write secure, performant, maintainable applications.
 
@@ -12,4 +12,4 @@
 - [Understanding The Basic of Time Complexity with Examples](https://medium.com/@styles77/understanding-the-basic-of-time-complexity-with-examples-238f87f3f519)
 
 ### Let's connect:
-- [LinkedIn](https://www.linkedin.com/in/refo/)
+Find out more about my professional experience on my [LinkedIn](https://www.linkedin.com/in/refo/).
