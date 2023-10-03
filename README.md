@@ -7,6 +7,7 @@
 > _I code for people_, _understand by people_, _used by people_
 
 ### My Articles:
+- [Working with Multi-languages in Laravel Without Packages](https://medium.com/@styles77/working-with-multi-languages-in-laravel-without-packages-b4dc8bfa9ab8)
 - [Let’s Clean Up Your Laravel Controller and Implement DTO](https://medium.com/@styles77/lets-clean-up-your-laravel-controller-and-implement-dto-a67c44bf5bb6)
 - [Exploring httprouter — Go Package for HTTP Router](https://medium.com/@styles77/exploring-httprouter-go-package-for-http-router-af1a22c69f31)
 - [Understanding The Basic of Time Complexity with Examples](https://medium.com/@styles77/understanding-the-basic-of-time-complexity-with-examples-238f87f3f519)
